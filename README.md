@@ -1,9 +1,11 @@
 ### Cinemind
 
-#What things we did -:
+# What things we did -:
 
 - Create React App
 - Configured TailwindCSS
+- made Header of login page
+- Login form
 
 # Features
 
@@ -16,7 +18,7 @@
     - Trailer in background
     - Title & Description
     - Movie Suggestions
-      - Movies List \* n
+      - Movies List
 - GPT page
   - Search bar
   - Movie suggestions
