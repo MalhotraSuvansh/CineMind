@@ -1,11 +1,14 @@
-### Cinemind
+# Cinemind
 
 # What things we did -:
 
 - Create React App
 - Configured TailwindCSS
+- Routing of App
 - made Header of login page
 - Login form
+- Form Validation
+- useRef Hook
 
 # Features
 
