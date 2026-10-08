@@ -11,8 +11,9 @@ export const checkValidData = (email, password, name = null) => {
     if (!isNameValid) return "Enter a valid Name";
   }
 
-  if (!isEmailValid) return "Enter a valid Email";
-  if (!isPasswordValid) return "Enter a valid Password";
+  if (!isEmailValid) return "Enter a valid Email(abc@gmail.com)";
+  if (!isPasswordValid)
+    return "The Password must contain alphabets, numbers and special characters with minimum length of 8 characters and one capital alphabet";
 
   return null;
 };
