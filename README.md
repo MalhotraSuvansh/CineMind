@@ -22,6 +22,11 @@
 - Unsubscribed to the onAuthStateChanged callback
 - Added Hardcoded values to constants.js file
 - Got data from TMDB now playing movies list API
+- Created Custom hooks
+- Updated store with movies data
+- Fetch data for trailer video
+- Updated store with trailer video data
+- Embedded the youtube video trailer
 
 # Features
 

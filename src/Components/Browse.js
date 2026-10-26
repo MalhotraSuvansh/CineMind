@@ -1,3 +1,5 @@
+// src/Components/Browse.js
+import React from "react";
 import Header from "./Header";
 import useNowPlayingMovies from "../Hooks/useNowPlayingMovies";
 import MainContainer from "./MainContainer";
@@ -11,15 +13,6 @@ const Browse = () => {
       <Header />
       <MainContainer />
       <SecondaryContainer />
-      {/*
-          Main Container 
-            - Video Background
-            - Video Title
-
-          Secondary Container
-            - MovieList * n
-              - Cards *n
-      */}
     </div>
   );
 };
