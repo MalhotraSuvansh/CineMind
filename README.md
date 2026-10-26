@@ -27,6 +27,7 @@
 - Fetch data for trailer video
 - Updated store with trailer video data
 - Embedded the youtube video trailer
+- Built Secondary Component
 
 # Features
 
