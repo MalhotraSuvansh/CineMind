@@ -28,6 +28,8 @@
 - Updated store with trailer video data
 - Embedded the youtube video trailer
 - Built Secondary Component
+- Added Movies Lists
+- Added TV Shows Lists
 
 # Features
 
